@@ -1,0 +1,1 @@
+insert into gastenboek(naam, datumtijd, bericht) values ('test', '2018-01-01 20:00', 'test')
